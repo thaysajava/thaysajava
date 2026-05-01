@@ -1,7 +1,7 @@
 <h1 align="left">Hello! I am Roberta! 👩🏼‍💻</h1>
 
 ###
-<h2 align="left"[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+bem-vindo+ao+meu+perfil!;Second+line+of+text)](https://git.io/typing-svg)</h2>
+<h2 align="left"[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)</h2>
 <h4 align="left">I'm Brazilian from Rio and I'm completely obsessed with technology!</h4>
 
 ###
