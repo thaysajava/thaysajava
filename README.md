@@ -35,7 +35,9 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thaysajava&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=radical&fontFamily=Alyamama&preferLogin=true">
+    <img  alt="thaysajava's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/thaysajava?cardType=github&theme=radical&fontFamily=Alyamama&preferLogin=true" />
+  </a>
 </div>
 
 
