@@ -36,9 +36,10 @@
 
 <div align="center">
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thaysajava&theme=radical" alt="GitHub Streak" /></a>
+  
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=radical&fontFamily=Alyamama&preferLogin=true">
     <img  alt="thaysajava's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/thaysajava?cardType=github&theme=radical&fontFamily=Alyamama&preferLogin=true" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thaysajava&theme=radical" alt="GitHub Streak" /></a>
   </a>
 </div>
 
