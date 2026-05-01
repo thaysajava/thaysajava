@@ -32,14 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=thaysajava&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/thaysajava/thaysajava/output/snake.svg" alt="Snake animation" />
-
-###
