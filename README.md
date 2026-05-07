@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=thaysajava)
 <h1 align="left">Hello! I am Roberta! 👩🏼‍💻</h1>
 
 ###
